@@ -18,18 +18,13 @@ Proje kullanılan kara yollarında oluşabilecek olası güvenlik sorunları iç
    
 # Proje Adımları
 
-  1 . Yol şeritlere ayrılır.Şeritler içinde görüntü anlama en uygun nokta seçilir. 
+  1 . Yol şeritlere ayrılır.Şeritler içinde görüntü anlama en uygun nokta seçilir. <br>
   2 . Belirlenen noktalardan cisim geçtiğinde görüntü okuma işlemi başlar
   3 . Plaka tanımlanır
   4 . Plakanın bulunduğu noktalar tanımlanır. Tanımlanan noktalar resim olarak kesilir.
   5 . Resim plaka okuma işlemi başlar.
   6 . Okunan plaka sistem saati ile bir excel dosyasına kayıt edilir.
   
-  
-   Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
 
   
 
